@@ -1,0 +1,18 @@
+C:\Users\Shilpaja\Desktop\project\VideoCart\VideoCart\bin\Debug\VideoCart.exe.config
+C:\Users\Shilpaja\Desktop\project\VideoCart\VideoCart\bin\Debug\VideoCart.exe
+C:\Users\Shilpaja\Desktop\project\VideoCart\VideoCart\bin\Debug\VideoCart.pdb
+C:\Users\Shilpaja\Desktop\project\VideoCart\VideoCart\obj\Debug\VideoCart.Form1.resources
+C:\Users\Shilpaja\Desktop\project\VideoCart\VideoCart\obj\Debug\VideoCart.Properties.Resources.resources
+C:\Users\Shilpaja\Desktop\project\VideoCart\VideoCart\obj\Debug\VideoCart.csproj.GenerateResource.Cache
+C:\Users\Shilpaja\Desktop\project\VideoCart\VideoCart\obj\Debug\VideoCart.exe
+C:\Users\Shilpaja\Desktop\project\VideoCart\VideoCart\obj\Debug\VideoCart.pdb
+C:\Users\Shilpaja\Desktop\project\VideoCart\VideoCart\obj\Debug\VideoCart.csprojResolveAssemblyReference.cache
+C:\Users\Shilpaja\Desktop\project\VideoCart\VideoCart\obj\Debug\Interop.LCC11.dll
+C:\Users\Shilpaja\Desktop\project\VideoCart\VideoCart\obj\Debug\VideoCart.csproj.ResolveComReference.cache
+C:\Users\Shilpaja\Desktop\project\VideoCart\VideoCart\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Shilpaja\Desktop\Project 2\VideoCart\VideoCart\bin\Debug\VideoCart.exe.config
+C:\Users\Shilpaja\Desktop\Project 2\VideoCart\VideoCart\obj\Debug\Interop.LCC11.dll
+C:\Users\Shilpaja\Desktop\Project 2\VideoCart\VideoCart\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Shilpaja\Desktop\Project 2\VideoCart\VideoCart\obj\Debug\VideoCart.csproj.ResolveComReference.cache
+C:\Users\Shilpaja\Desktop\Project 2\VideoCart\VideoCart\obj\Debug\VideoCart.exe
+C:\Users\Shilpaja\Desktop\Project 2\VideoCart\VideoCart\obj\Debug\VideoCart.pdb
